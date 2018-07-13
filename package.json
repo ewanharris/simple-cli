@@ -1,0 +1,16 @@
+{
+  "name": "@awam/simple-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-kit": "^0.3.0",
+    "node-fetch": "^2.1.2"
+  }
+}
